@@ -1,4 +1,4 @@
-# Assignment-1 Done by Sachin Gupta and Rahul Sharma
+# Assignment-1 Done by Sachin Gupta
 In below code we import two python libraries, one is "random" and "matplotlib".
 
 >First 'Random' library defines a series of functions for generating or manipulating random integers. Python random() is a pseudo-random number generator function that generates a random float number between 0.0 and 1.0, is used by functions in the random module.
